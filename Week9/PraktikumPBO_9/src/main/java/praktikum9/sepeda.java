@@ -10,7 +10,7 @@ package praktikum9;
  */
 public class sepeda extends kendaraan {
     @Override
-        void berjalan() {
+    void berjalan() {
         System.out.println("Sepeda sedang berjalan dengan pelan.");
     }
 }
